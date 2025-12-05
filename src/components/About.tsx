@@ -225,7 +225,7 @@ export function About() {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <h3 className="text-3xl lg:text-4xl mb-6">
-              Senior UX/UI Designer
+              Senior UX/Product Designer
             </h3>
             <p className="text-xl text-white/70 mb-8 leading-relaxed">
               With ~5 years of experience crafting user-centered solutions across 

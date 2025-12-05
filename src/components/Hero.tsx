@@ -156,7 +156,7 @@ export function Hero() {
                 }}
               />
               <Sparkles className="w-4 h-4 text-purple-300 relative z-10" />
-              <span className="relative z-10 text-sm tracking-[0.2em] uppercase text-white/80">Senior UX Designer</span>
+              <span className="relative z-10 text-sm tracking-[0.2em] uppercase text-white/80">Senior UX/Product Designer</span>
               <motion.div
                 animate={{ rotate: 360 }}
                 transition={{ duration: 2, repeat: Infinity, ease: "linear" }}
