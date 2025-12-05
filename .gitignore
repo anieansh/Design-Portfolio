@@ -1,0 +1,266 @@
+
+build
+node_modules
+dist
+.env
+.DS_Store
+.vscode
+.idea
+*.log
+coverage
+*.tmp
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+# IDE specific files
+*.iml
+out/
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+ENV.bak/
+.venv.bak/
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+# Logs
+logs/
+*.log
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+# Build directories
+build/
+dist/
+out/
+release/
+# Coverage directories
+coverage/
+.nyc_output/
+# Miscellaneous
+.sass-cache/
+.cache/
+.parcel-cache/
+.yarn-cache/
+.pnp.js
+.pnp.cjs
+# Docker
+docker-compose.override.yml
+Dockerfile.dev
+# Kubernetes
+.kube/
+.kubeconfig
+# Terraform
+.terraform/
+.terraform.lock.hcl
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+# Others
+*.log
+*.cache
+*.pid
+*.seed
+*.pid.lock
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Secrets
+secrets.yml
+credentials.yml.enc
+# Miscellaneous
+*.local
+*.backup
+*.bak
+*.old
+*.orig
+# Temporary files
+tmp/
+temp/
+# Logs
+logs/
+*.log
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+# Build directories
+build/
+dist/
+out/
+release/
+# Coverage directories
+coverage/
+.nyc_output/
+# Miscellaneous
+.sass-cache/
+.cache/
+.parcel-cache/
+.yarn-cache/
+.pnp.js
+.pnp.cjs
+# Docker
+docker-compose.override.yml
+Dockerfile.dev
+# Kubernetes
+.kube/
+.kubeconfig
+# Terraform
+.terraform/
+.terraform.lock.hcl
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+
+# Others
+*.log
+*.cache
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Secrets
+secrets.yml
+credentials.yml.enc
+# Miscellaneous
+*.local
+*.backup
+*.bak
+*.old
+*.orig  
+# Temporary files
+tmp/
+temp/
+# Logs
+logs/
+*.log
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+# Build directories
+build/
+dist/
+out/
+release/
+# Coverage directories
+coverage/
+.nyc_output/
+
+
+# Miscellaneous
+.sass-cache/
+.cache/
+.parcel-cache/
+.yarn-cache/
+.pnp.js
+.pnp.cjs
+# Docker
+docker-compose.override.yml
+Dockerfile.dev
+# Kubernetes
+.kube/
+.kubeconfig
+# Terraform
+.terraform/
+.terraform.lock.hcl
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+# Others
+*.log
+*.cache
+*.pid
+*.seed
+*.pid.lock
