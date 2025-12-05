@@ -274,7 +274,7 @@ export function Hero() {
             {[
               { number: '5+', label: 'Years Experience' },
               { number: '50+', label: 'Projects Delivered' },
-              { number: '4', label: 'Industries' },
+              { number: '6+', label: 'Industries' },
             ].map((stat, index) => (
               <motion.div
                 key={index}
