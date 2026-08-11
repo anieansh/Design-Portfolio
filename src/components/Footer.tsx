@@ -222,7 +222,7 @@ export function Footer() {
             >
               <div className="flex flex-col md:flex-row items-center gap-6">
                 <p className="text-sm">
-                  © 2025 Ansh Pahwa. All rights reserved.
+                  © 2026 Ansh Pahwa. All rights reserved.
                 </p>
                 <div className="flex items-center gap-2 text-sm">
                   <span>Made with</span>
