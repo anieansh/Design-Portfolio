@@ -16,7 +16,7 @@ const projects = [
   {
     name: 'InspiroLink',
     description: 'Advanced genomic analysis platform for precision medicine',
-    url: 'https://inspirogene.com',
+    url: 'https://inspirolink.figma.site/',
     category: 'Healthcare',
     tags: ['Genomics', 'AI/ML', 'Healthcare'],
     image: inspiroLinkImage,
